@@ -1,6 +1,6 @@
 # Hi, I’m Marvin Avila @avilaburgos29 👋 
 
-## Full Stack Developer 🚀
+## Full Stack Developer and Data Engineer 🚀
 
 - 👀 I am interested in learning new programming languages and software development.
 - 🌱 I am currently learning #Python, #Django, and #Marketing.
