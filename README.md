@@ -1,8 +1,69 @@
-# Hi, I’m Marvin Avila @avilaburgos29 👋 
+# Hi there, I’m Marvin Avila 👋
 
-## Full Stack Developer and Data Engineer 🚀
+### Full Stack Developer • Data Engineer • Google Cloud Engineer 🚀
 
-- 👀 I am interested in learning new programming languages and software development.
-- 🌱 I am currently learning #NextJS, #ReactJS, and #Tailwind.
-- 💞️ I’m looking to collaborate on #Python, #Php and #JavaScritpt development projects.
-- 📫 How to reach me to avilaburgos29@gmail.com.
+Passionate about building scalable software solutions, data platforms, and digital products that create real business impact.
+I enjoy combining software engineering, cloud technologies, and data analytics to develop modern applications and intelligent systems.
+
+---
+
+## 👨‍💻 About Me
+
+* 💼 Full Stack Developer with experience in web applications, APIs, and cloud solutions.
+* 📊 Data Engineer focused on analytics, BigQuery, ETL processes, and business intelligence.
+* ☁️ Google Cloud enthusiast passionate about scalable architectures and automation.
+* 🌱 Currently learning and improving my skills in:
+
+  * Next.js
+  * React.js
+  * Tailwind CSS
+  * Artificial Intelligence & Automation
+* 🚀 Interested in software architecture, AI implementation, and digital transformation.
+* 🤝 Open to collaborating on:
+
+  * Python projects
+  * PHP/Laravel applications
+  * JavaScript/TypeScript solutions
+  * Data Engineering initiatives
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+`React.js` • `Next.js` • `Vue.js` • `Tailwind CSS` • `JavaScript`
+
+### Backend
+
+`PHP` • `Laravel` • `Python` • `Node.js`
+
+### Cloud & Data
+
+`Google Cloud Platform` • `BigQuery` • `MySQL` • `ETL Pipelines`
+
+### Tools & Technologies
+
+`Git` • `REST APIs` • `Docker` • `Linux`
+
+---
+
+## 📈 Current Goals
+
+* Build innovative AI-powered products
+* Create scalable SaaS platforms
+* Grow as a Software & Data Architect
+* Share knowledge through LinkedIn and open-source projects
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: `avilaburgos29@gmail.com`
+* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/marvin-avila-burgos/?utm_source=chatgpt.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love transforming complex business problems into scalable digital solutions.
