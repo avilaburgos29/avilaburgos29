@@ -60,7 +60,7 @@ I enjoy combining software engineering, cloud technologies, and data analytics t
 ## 📫 Contact Me
 
 * 📧 Email: `avilaburgos29@gmail.com`
-* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/marvin-avila-burgos/?utm_source=chatgpt.com)
+* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/avilaburgos29/)
 
 ---
 
