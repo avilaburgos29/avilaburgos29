@@ -1,6 +1,6 @@
 # Hi there, I'm Marvin Avila 👋
 
-### IT Solutions Lead • Data Architecture • ERP, BI & Digital Transformation 🚀
+### IT Solutions Leader • Data Architecture • ERP, BI & Digital Transformation 🚀
 
 IT Solutions Leader with **8+ years of experience** designing and implementing technology solutions, enterprise systems integration, cloud data architectures, Business Intelligence and digital transformation.
 I connect business needs with functional, scalable, data-driven technology, from ERP/CRM/LIMS integrations to modern data platforms on Google Cloud.
